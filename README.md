@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # prototipo-1 BÁSICO
  
 Prototipo de página web para un negocio local.
@@ -52,4 +51,3 @@ https://github.com/javiercobosanchez
 
 Linkedin:
 https://linkedin.com/in/javiercobosanchez
->>>>>>> 58b0ea4 (Initial commit)
